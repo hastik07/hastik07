@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hastik07&label=Profile%20views&color=0e75b6&style=flat" alt="hastik07" /> </p>
 
-- 🔭 I’m currently working on [Blog App](https://github.com/hastik07/flutter_gomoon_app.git)
+- 🔭 I’m currently working on [Go Moon App](https://github.com/hastik07/flutter_gomoon_app.git)
 
 - 🌱 I’m currently learning **Flutter**
 
