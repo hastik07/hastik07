@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/hastik-mangukiya-032917287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hastik mangukiya" height="30" width="40" /></a>
 <a href="https://instagram.com/hastik_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hastik_07" height="30" width="40" /></a>
+<a href="https://www.credly.com/users/hastik-mangukiya" target="blank"><img align="center" src="https://images.credly.com/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png" alt="hastik-mangukiya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hastik_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hastik_07" height="30" width="40" /></a>
 </p>
 
