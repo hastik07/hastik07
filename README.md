@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hastik07&label=Profile%20views&color=0e75b6&style=flat" alt="hastik07" /> </p>
 
-- 🔭 I’m currently working on [Go Moon App](https://github.com/hastik07/flutter_gomoon_app.git)
 
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Android Studio, Firebase, Dart**
 
 - 📫 How to reach me **hastikmangukiya07@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,6 +23,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="androidstudio" width="40" height="40"/> </a> <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/vscode.png" alt="c" width="40" height="40"/> </a> </p>
+
+  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hastik07" alt="hastik07" /></a> </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hastik07&show_icons=true&locale=en&layout=compact" alt="hastik07" /></p>
 
