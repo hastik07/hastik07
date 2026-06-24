@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hastik07&label=Profile%20views&color=0e75b6&style=flat" alt="hastik07" /> </p>
 
 
-- 🌱 I’m currently learning **Flutter and DSA with C++**
+- 🌱 I’m currently building and shipping **Flutter Apps on both Play Store and App Store**
 
-- 💬 Ask me about **Android Studio, Firebase, Dart**
+- 💬 Ask me about **Android Studio, Firebase, Dart, Supabase, XCode**
 
 - 📫 How to reach me **hastikmangukiya07@gmail.com**
 
